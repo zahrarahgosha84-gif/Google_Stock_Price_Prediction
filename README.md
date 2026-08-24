@@ -1,5 +1,5 @@
 # Google Stock Price Prediction with LSTM
-
+![Google stock price trend, 2012–2016](images/giphy.gif)
 Predicting Google's daily stock price using an LSTM neural network — and, more importantly, figuring out *why* the obvious approach doesn't work very well, and how to fix it.
 
 This started as a course assignment: redo the class's Apple stock LSTM notebook, but on Google stock, and try to get a better, more honestly-evaluated model. What came out of it is a small case study in why naive stock-price LSTMs are misleading, and one simple fix that actually helps.
