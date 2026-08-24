@@ -4,9 +4,12 @@ Predicting Google's daily stock price using an LSTM neural network — and, more
 
 
 This started as a course assignment: redo the class's Apple stock LSTM notebook, but on Google stock, and try to get a better, more honestly-evaluated model. What came out of it is a small case study in why naive stock-price LSTMs are misleading, and one simple fix that actually helps.
+
 <p align="center">
   <img src="images/giphy.gif" width="400" height="250">
 </p>
+
+
 ## The data
 
 Daily Google (Open, High, Low, Close, Volume) prices:
